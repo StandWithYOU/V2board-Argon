@@ -16,6 +16,20 @@
 </head>
 <body>
 <div id="app"></div>
+<script>
+    const SCRIPT_ID = '{{$crisp_id}}'; // 填写Crisp_id即可开启crisp客服
+    if (SCRIPT_ID) {
+        window.$crisp = [];
+        window.CRISP_WEBSITE_ID = SCRIPT_ID;
+        (function () {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.chat/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+    }
+</script>
 <script src="/js/chunk-vendors.287a91ee.js"></script>
 <script src="/js/app.48d31629.js"></script>
 </body>
