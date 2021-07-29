@@ -7,16 +7,16 @@
     <link rel="icon" href="/favicon.ico">
     <title>Bob-Argon</title>
     <link rel="stylesheet" href="https://unpkg.com/element-plus/lib/theme-chalk/index.css">
-    <link href="/css/app.e87024c8.css" rel="preload" as="style">
+    <link href="/css/app.4644ca90.css" rel="preload" as="style">
     <link href="/css/chunk-vendors.4f06f28f.css" rel="preload" as="style">
-    <link href="/js/app.7acac5aa.js" rel="preload" as="script">
-    <link href="/js/chunk-vendors.2b6890ae.js" rel="preload" as="script">
+    <link href="/js/app.3e7cae2b.js" rel="preload" as="script">
+    <link href="/js/chunk-vendors.287a91ee.js" rel="preload" as="script">
     <link href="/css/chunk-vendors.4f06f28f.css" rel="stylesheet">
-    <link href="/css/app.e87024c8.css" rel="stylesheet">
+    <link href="/css/app.4644ca90.css" rel="stylesheet">
 </head>
 <body>
 <div id="app"></div>
-<script src="/js/chunk-vendors.2b6890ae.js"></script>
-<script src="/js/app.7acac5aa.js"></script>
+<script src="/js/chunk-vendors.287a91ee.js"></script>
+<script src="/js/app.3e7cae2b.js"></script>
 </body>
 </html>
